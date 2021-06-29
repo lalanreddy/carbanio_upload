@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/carbanio_upload/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/carbanio_upload/static/js/main.0911ee15.chunk.js",
+    "main.js.map": "/carbanio_upload/static/js/main.0911ee15.chunk.js.map",
+    "runtime-main.js": "/carbanio_upload/static/js/runtime-main.6dd415c4.js",
+    "runtime-main.js.map": "/carbanio_upload/static/js/runtime-main.6dd415c4.js.map",
+    "static/js/2.2c526690.chunk.js": "/carbanio_upload/static/js/2.2c526690.chunk.js",
+    "static/js/2.2c526690.chunk.js.map": "/carbanio_upload/static/js/2.2c526690.chunk.js.map",
+    "static/js/3.2dff4392.chunk.js": "/carbanio_upload/static/js/3.2dff4392.chunk.js",
+    "static/js/3.2dff4392.chunk.js.map": "/carbanio_upload/static/js/3.2dff4392.chunk.js.map",
+    "index.html": "/carbanio_upload/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/carbanio_upload/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.2c526690.chunk.js.LICENSE.txt": "/carbanio_upload/static/js/2.2c526690.chunk.js.LICENSE.txt",
+    "static/media/flag.84ab7612.png": "/carbanio_upload/static/media/flag.84ab7612.png",
+    "static/media/logo.6ce24c58.svg": "/carbanio_upload/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6dd415c4.js",
+    "static/js/2.2c526690.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.0911ee15.chunk.js"
+  ]
+}
